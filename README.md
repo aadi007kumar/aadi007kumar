@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @aadi007kumar
+<h2>About me:</h2>
+<hr>
+- 👋 Hi, I’m Aditya Kumar
 - 👀 I’m interested in Cloud computing, Backend Development.
 - 🌱 I’m currently learning Java&DSA.
 
