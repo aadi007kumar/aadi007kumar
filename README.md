@@ -1,7 +1,7 @@
 <h2>About me:</h2>
 <hr>
-- 👋 Hi, I’m Aditya Kumar
-- 👀 I’m interested in Cloud computing, Backend Development.
+- 👋 Hi, I’m Aditya Kumar<br>
+- 👀 I’m interested in Cloud computing, Backend Development.<br>
 - 🌱 I’m currently learning Java&DSA.
 
 
